@@ -1,3 +1,0 @@
-/home/maxim/Documents/distributedFileSystem/masterCpp/build/CMakeFiles/master.dir
-/home/maxim/Documents/distributedFileSystem/masterCpp/build/CMakeFiles/edit_cache.dir
-/home/maxim/Documents/distributedFileSystem/masterCpp/build/CMakeFiles/rebuild_cache.dir
