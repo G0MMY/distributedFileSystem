@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/maxim/Documents/distributedFileSystem/masterCpp/build",
+  "command": "/usr/bin/c++  -I/home/maxim/Documents/distributedFileSystem/masterCpp/master -I/home/maxim/Documents/distributedFileSystem/masterCpp/headers/network -I/home/maxim/Documents/distributedFileSystem/masterCpp/headers/model -g -std=gnu++23 -o CMakeFiles/master.dir/main.cpp.o -c /home/maxim/Documents/distributedFileSystem/masterCpp/main.cpp",
+  "file": "/home/maxim/Documents/distributedFileSystem/masterCpp/main.cpp"
+},
+{
+  "directory": "/home/maxim/Documents/distributedFileSystem/masterCpp/build",
+  "command": "/usr/bin/c++  -I/home/maxim/Documents/distributedFileSystem/masterCpp/master -I/home/maxim/Documents/distributedFileSystem/masterCpp/headers/network -I/home/maxim/Documents/distributedFileSystem/masterCpp/headers/model -g -std=gnu++23 -o CMakeFiles/master.dir/src/network/server.cpp.o -c /home/maxim/Documents/distributedFileSystem/masterCpp/src/network/server.cpp",
+  "file": "/home/maxim/Documents/distributedFileSystem/masterCpp/src/network/server.cpp"
+}
+]
